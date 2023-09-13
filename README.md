@@ -4,6 +4,7 @@
 - ✏️ I love making software for people to enjoy! I like to tinker with video games and cool web apps
 - 📖 I'm currently learning more about full stack development, especially backend development
 - 🎾 I love to play tennis, listen to music, and watch anime in my free time
+- 💼 Check out my projects below! You can reach me at dxie46@gatech.edu
 
 <!--
 **dxie46/dxie46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
