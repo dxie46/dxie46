@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-- 🎓 My name's Derek - I'm a 3rd year studying Computer Science at GT
+- 🎓 My name's Derek - I'm a recent Computer Science graduate from Georgia Tech
 - ✏️ I love making software for people to enjoy! I like to tinker with video games and cool web apps
 - 📖 I'm currently learning more about full stack development, especially backend development
 - 🎾 I love to play tennis, listen to music, and watch anime in my free time
